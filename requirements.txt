@@ -1,0 +1,5 @@
+﻿requests~=2.32.3
+geopandas~=1.0.1
+pyspark~=3.5.5
+apache-sedona~=1.4.1
+shapely~=2.1.0
